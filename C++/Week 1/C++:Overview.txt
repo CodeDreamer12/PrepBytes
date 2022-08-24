@@ -1,1 +1,32 @@
-Which of the following is not a valid variable name declaration?
+1) Which of the following is not a valid variable name declaration?
+Ans None of the mentioned
+
+2) Which of the following is not a valid variable name declaration?
+Ans int 3_a;
+
+3) All keywords in C++ are in ____________
+Ans LowerCase letters
+
+4) Which of the following is true for variable names in C++?
+Ans Variable names cannot start with a digit
+
+5) Which keyword is used to prevent any changes in the variable within a C++ program?
+Ans const
+
+6) What is the output of this C++ code?
+
+   void main()
+   {
+       int k = 4;
+       float k = 4;
+       cout<< k;
+}
+Ans Compile time error
+
+7) Which of the following statement is false?
+Ans A variable must be declared and defined at the same time
+
+8) Choose the correct option
+extern int i;
+int i;
+Ans 1 declares i,2 declares and defines i
